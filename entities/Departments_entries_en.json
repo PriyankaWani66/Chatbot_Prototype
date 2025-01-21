@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Computer Science",
+    "synonyms": [
+      "Computer Science",
+      "CS",
+      "CSE",
+      "Comp Sci"
+    ]
+  },
+  {
+    "value": "Information Science",
+    "synonyms": [
+      "Information Science",
+      "IS",
+      "Info Sci",
+      "Info Science",
+      "Information Systems"
+    ]
+  },
+  {
+    "value": "Engineering Management",
+    "synonyms": [
+      "Engineering Management",
+      "EM",
+      "Management Engineering"
+    ]
+  }
+]

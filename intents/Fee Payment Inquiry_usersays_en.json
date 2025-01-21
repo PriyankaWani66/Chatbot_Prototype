@@ -1,0 +1,119 @@
+[
+  {
+    "id": "6dd7c24c-86e2-4c49-a2f1-a3a3d75e9c19",
+    "data": [
+      {
+        "text": "I need the link to pay my tuition fees.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a39283ee-09bf-49f0-8bd2-8c21fbaf099c",
+    "data": [
+      {
+        "text": "Can you direct me to the tuition payment portal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e88875b-c629-4875-a725-68953b131db5",
+    "data": [
+      {
+        "text": "Where can I find the fee payment page?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "282110a9-1eda-4efe-9b9b-29bd1077a687",
+    "data": [
+      {
+        "text": "I am happy with the quick fee processing.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbc742aa-562c-44ee-afd6-7eff2f471457",
+    "data": [
+      {
+        "text": "I\u0027m frustrated with the payment process.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a803a640-d69c-48ed-919e-cfd9ab17d1a5",
+    "data": [
+      {
+        "text": "Could you provide me the link to pay the fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9a9667d-58b0-4e02-a214-44a23914bc0a",
+    "data": [
+      {
+        "text": "The fee payment site is down.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b1a5bd1-0457-4fa9-b10f-f4176dec13a7",
+    "data": [
+      {
+        "text": "I had an issue paying my fees online.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79add873-2540-4786-b52f-6c15aeec283e",
+    "data": [
+      {
+        "text": "How do I pay my fees?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

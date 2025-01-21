@@ -1,0 +1,93 @@
+[
+  {
+    "id": "e0229351-e60f-44ce-8f8e-b31799130c83",
+    "data": [
+      {
+        "text": "What study options do I have in engineering at your university?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31dd7341-ffb7-415b-9ae8-a02361c19f49",
+    "data": [
+      {
+        "text": "I\u0027m interested in the PhD programs. What can you tell me about them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df9fbc92-241f-4ca3-904c-8179a7854e81",
+    "data": [
+      {
+        "text": "What kinds of master\u0027s programs are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d40812b-f17d-4305-9a36-d9a25c670724",
+    "data": [
+      {
+        "text": "Do you have information on your undergraduate courses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78d07725-ba85-4d48-bf2b-0822e27b6650",
+    "data": [
+      {
+        "text": "Can you tell me about the different academic programs you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c28a8f4a-bb40-41c4-8f61-4126ed8ce981",
+    "data": [
+      {
+        "text": "What degrees does the university offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbbf3a3d-613b-4605-be21-9635b3190110",
+    "data": [
+      {
+        "text": "What programs does the university offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

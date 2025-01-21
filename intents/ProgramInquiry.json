@@ -1,0 +1,36 @@
+{
+  "id": "fc0acb02-7b3a-4d24-b508-5f69b2594bc8",
+  "parentId": "d5ecba3b-7c2a-4741-9d7b-26cfa697f198",
+  "rootParentId": "d5ecba3b-7c2a-4741-9d7b-26cfa697f198",
+  "name": "ProgramInquiry",
+  "auto": true,
+  "contexts": [
+    "AdmissionInquiry-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "AdmissionInquiry.AdmissionInquiry-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

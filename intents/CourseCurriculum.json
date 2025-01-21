@@ -1,0 +1,56 @@
+{
+  "id": "70d18951-add8-4993-beed-f0b49c19a4be",
+  "name": "CourseCurriculum",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "department_info",
+          "lifespan": 5
+        },
+        {
+          "name": "CourseCurriculum-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "47eda39d-eb92-4837-9ea1-3ee7f56c4c97",
+          "name": "Departments",
+          "required": false,
+          "dataType": "@Departments",
+          "value": "$Departments",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

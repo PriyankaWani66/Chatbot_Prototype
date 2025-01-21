@@ -1,0 +1,37 @@
+{
+  "id": "409957f9-a585-4b39-9616-782668b2f243",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It seems I’m not sure how to answer that. You can try asking about specific topics like tuition fees, HR department, or student services.",
+            "I seem to be having trouble understanding you. You can ask me about things like course details, enrollment processes, or where certain buildings are on campus. Just let me know!",
+            "I\u0027m sorry, I didn\u0027t quite catch that. Could you please rephrase your question or ask about something else like fees, registration, or campus facilities?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

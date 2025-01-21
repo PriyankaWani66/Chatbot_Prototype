@@ -1,0 +1,49 @@
+{
+  "id": "bf00832e-e0e1-4f14-9be3-aca1758cffe0",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome! What information are you looking for today? HR, fees, courses, or something else? Just type your question below.",
+            "Hello, I\u0027m here! Whether you\u0027re a new student or just need some quick info, ask away and I\u0027ll do my best to assist you.",
+            "Hello! I\u0027m here to help you with all things related to our university. Whether you need links to HR, tuition details, or registration info, just ask!",
+            "Good Day! I\u0027m your virtual assistant. Feel free to ask me anything about university services."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

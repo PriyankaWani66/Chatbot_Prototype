@@ -1,0 +1,186 @@
+[
+  {
+    "id": "b79282b3-d2a6-41e8-b43c-b7e949977eec",
+    "data": [
+      {
+        "text": "What courses do students in ",
+        "userDefined": false
+      },
+      {
+        "text": "Information Science",
+        "meta": "@Departments",
+        "alias": "Departments",
+        "userDefined": true
+      },
+      {
+        "text": " take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50eadbda-30d5-4f4e-9899-b7869b6b44d9",
+    "data": [
+      {
+        "text": "Show me the course curriculum for ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer Science",
+        "meta": "@Departments",
+        "alias": "Departments",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38f9f98b-936e-41c1-956d-3d45bbd945f4",
+    "data": [
+      {
+        "text": "Does the ",
+        "userDefined": false
+      },
+      {
+        "text": "IS",
+        "meta": "@Departments",
+        "alias": "Departments",
+        "userDefined": true
+      },
+      {
+        "text": " department provide any courses on database management?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2d3ac6e-82a0-4634-9fc9-53075bf97c83",
+    "data": [
+      {
+        "text": "Can I see the syllabus for the advanced robotics course in the ",
+        "userDefined": false
+      },
+      {
+        "text": "EM",
+        "meta": "@Departments",
+        "alias": "Departments",
+        "userDefined": true
+      },
+      {
+        "text": " department?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09b5ccaa-f39b-4432-8eb7-674e99fdb592",
+    "data": [
+      {
+        "text": "What courses are available in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Comp Sci",
+        "meta": "@Departments",
+        "alias": "Departments",
+        "userDefined": true
+      },
+      {
+        "text": " department?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4360de4-e47c-4321-a390-4965e32c5b72",
+    "data": [
+      {
+        "text": "List ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineering Management",
+        "meta": "@Departments",
+        "alias": "Departments",
+        "userDefined": true
+      },
+      {
+        "text": " courses available at Missouri S\u0026T.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa2c9486-e3a4-463e-a9cb-946a8240cf55",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "IE",
+        "meta": "@Departments",
+        "alias": "Departments",
+        "userDefined": true
+      },
+      {
+        "text": " department courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a71bb835-aaf8-4fae-b161-91ec923267cb",
+    "data": [
+      {
+        "text": "What courses are offered by the ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer Science",
+        "meta": "@Departments",
+        "alias": "Departments",
+        "userDefined": true
+      },
+      {
+        "text": " department?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

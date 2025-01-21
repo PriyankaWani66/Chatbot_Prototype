@@ -1,0 +1,54 @@
+[
+  {
+    "id": "6dec8d94-747e-4289-9c54-3cda0df7dbe6",
+    "data": [
+      {
+        "text": "Who can I contact about admission questions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9405d299-05ec-40ef-ae32-f784a8decf80",
+    "data": [
+      {
+        "text": "What do I need to submit with my application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d0b72c6-6dd0-4560-9297-881f2b140945",
+    "data": [
+      {
+        "text": "How can I apply to the university?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84d8301e-e543-43e0-b7cc-81bae1742464",
+    "data": [
+      {
+        "text": "I want to know about the admissions process.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
